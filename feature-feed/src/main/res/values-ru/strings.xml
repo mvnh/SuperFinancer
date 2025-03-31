@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feed">Лента</string>
+    <string name="create_post">Создать пост</string>
+    <string name="more">ещё</string>
+    <string name="author">Author</string>
+    <string name="content">Content</string>
+</resources>

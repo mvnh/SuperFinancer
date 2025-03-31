@@ -1,0 +1,8 @@
+<resources>
+    <string name="main">Главная</string>
+    <string name="ticker_logo">Логотип компании</string>
+    <string name="tickers">Тикеры</string>
+    <string name="articles">Новости</string>
+    <string name="tap_for_search">Нажмите для поиска</string>
+    <string name="create_post">Создать событие</string>
+</resources>

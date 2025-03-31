@@ -1,0 +1,31 @@
+<resources>
+    <string name="add">Добавить</string>
+    <string name="finances">Финансы</string>
+    <string name="goals">Цели</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="add_goal">Добавить цель</string>
+    <string name="name">Название</string>
+    <string name="target_amount">Целевая сумма (₽)</string>
+    <string name="till_date">Дата завершения (необязательно)</string>
+    <string name="goal_added">Цель добавлена</string>
+    <string name="out_of">из</string>
+    <string name="till">до</string>
+    <string name="name_too_long"><![CDATA[Название слишком длинное (>30)]]></string>
+    <string name="transfer">Перевод между счетами</string>
+    <string name="deposit">Пополнение</string>
+    <string name="withdraw">Снятие</string>
+    <string name="delete">Удалить</string>
+    <string name="transactions">Транзакции</string>
+    <string name="from">Откуда</string>
+    <string name="to">Куда</string>
+    <string name="amount">Сумма</string>
+    <string name="comment">Комментарий</string>
+    <string name="to_goal">На цель</string>
+    <string name="select_goal">Выберите цель</string>
+    <string name="not_enough_funds">Недостаточно средств</string>
+    <string name="target_exceeded">Цель достигнута</string>
+    <string name="total">Всего накоплений</string>
+    <string name="progress">Прогресс</string>
+    <string name="avg_income">Средний доход</string>
+    <string name="savings_info">Информация о накоплениях</string>
+</resources>

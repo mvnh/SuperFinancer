@@ -1,0 +1,8 @@
+<resources>
+    <string name="main">Main</string>
+    <string name="ticker_logo">Ticker logo</string>
+    <string name="tickers">Tickers</string>
+    <string name="articles">Articles</string>
+    <string name="tap_for_search">Tap for search</string>
+    <string name="create_post">Create post</string>
+</resources>

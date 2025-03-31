@@ -1,0 +1,32 @@
+<resources>
+    <string name="add">Add</string>
+    <string name="finances">Finances</string>
+    <string name="goals">Goals</string>
+    <string name="confirm">Confirm</string>
+    <string name="add_goal">Add goal</string>
+    <string name="name">Name</string>
+    <string name="target_amount">Target amount (in RUB)</string>
+    <string name="till_date">Till date (optional)</string>
+    <string name="goal_added">Goal added</string>
+    <string name="out_of">out of</string>
+    <string name="till">till</string>
+    <string name="name_too_long"><![CDATA[Name too long (>30)]]></string>
+    <string name="transfer">Transfer</string>
+    <string name="deposit">Deposit</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="delete">Delete</string>
+    <string name="transactions">Transactions</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="amount">Amount</string>
+    <string name="comment">Comment</string>
+    <string name="to_goal">To goal</string>
+    <string name="select_goal">Select goal</string>
+    <string name="not_enough_funds">Not enough funds</string>
+    <string name="target_exceeded">Target exceeded</string>
+    <string name="invalid_amount">Invalid amount</string>
+    <string name="total">Total</string>
+    <string name="progress">Progress</string>
+    <string name="avg_income">Average income</string>
+    <string name="savings_info">Savings info</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feed">Feed</string>
+    <string name="create_post">Create post</string>
+    <string name="more">more</string>
+    <string name="author">Author</string>
+    <string name="content">Content</string>
+</resources>
