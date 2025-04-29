@@ -71,7 +71,7 @@ internal fun HomeScreen(
                 modifier = Modifier.fillMaxWidth()
             )
         },
-        contentWindowInsets = WindowInsets(bottom = 0.dp)
+        contentWindowInsets = WindowInsets(0.dp)
     ) { innerPadding ->
         Column(modifier = mainScreenModifier(innerPadding)) {
             ContentSection(

@@ -3,4 +3,5 @@
     <string name="main">Главная</string>
     <string name="finances">Финансы</string>
     <string name="feed">Лента</string>
+    <string name="home">Home</string>
 </resources>
